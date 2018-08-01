@@ -2,8 +2,6 @@
 title: Bienvenue sur le blog du fablab Mon Petit Labo
 layout: default
 ---
- 
-# Bienvenue sur le blog du fablab **Mon Petit Labo**
 
 ## Description du projet
 
