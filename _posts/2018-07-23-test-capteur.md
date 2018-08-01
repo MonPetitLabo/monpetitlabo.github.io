@@ -14,3 +14,7 @@ Après l'avoir reçu, il est temps de le tester. Une breadboard, un arduino et c
 Les résultats ne sont pas probants, nous n'arrivons pas à avoir de vraies différences de retour quand nous plaçons le capteur devant un support clair  puis devant un support foncé.
 
 Il reste encore à étudier ce capteur plus en profondeur et voir s'il est possible de le calibrer ou si un autre positionnement peut améliorer le retour.
+
+<!--more-->
+
+Durant cette séance, nous avons testé un capteur de contraste IR.
