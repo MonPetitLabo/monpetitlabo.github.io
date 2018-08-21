@@ -1,4 +1,6 @@
 title: Mon petit Labo
 description: Petit fablab entre collègues
+permalink: pretty
+encoding: utf-8
 excerpt_separator: <!--more-->
 theme: jekyll-theme-cayman
