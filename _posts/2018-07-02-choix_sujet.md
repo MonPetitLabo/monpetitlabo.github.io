@@ -1,15 +1,8 @@
 ---
 title: Choix du sujet
 date:  2018-07-02 12:30:00 +0200
+post_description: Cette réunion a permis de faire le choix du premier sujet du fablab.
 ---
-
-Cette réunion a permis de faire le choix du premier sujet du fablab.
-
-<!--more-->
-
-# Choix du sujet
-
-**Date** : 02/07/2018
 
 Cette réunion a permis de faire le choix du premier sujet du fablab. Ce sera la création d'un robot autonome suiveur de ligne.
 
