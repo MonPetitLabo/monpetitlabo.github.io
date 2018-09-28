@@ -23,4 +23,10 @@ images:
     title: 20180827_fablab
 ---
 
-Le chassie du robot est fait, le capteur est placé et les moteurs sont branchés.
+Plusieurs choses ont été faites durant cette séance :
+
+  * Le châssis du robot est fait en Lego technique avec 2 moteurs Lego 9v.
+  * le capteur est placé à l'avant, en dessous du robot, le plus proche du sol pour avoir une bonne lecture
+  * les moteurs sont branchés. Pour ce faire, nous avons découpé les connecteurs Lego afin qu'ils puissent se brancher sur des piles 9v.
+
+  Maintenant que la partie mécanique a été faites, il reste le programme à développer afin de commander les moteurs en fonction des retours du capteur.
