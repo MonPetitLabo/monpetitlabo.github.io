@@ -16,3 +16,5 @@ Chaque équipe continue son robot mais notre équipe a pu finaliser les derniers
 Tout fonctionne parfaitement et notre petit robot suit sa ligne tranquillement.
 
 Reste à peaufiner le rangement des câbles et optimiser un peu son déplacement et sa vitesse.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CsDm0Jrk3vQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
